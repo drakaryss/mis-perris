@@ -1,6 +1,5 @@
 from django.db import models
 from django.utils import timezone
-from datetimepicker.widgets import DateTimePicker
 
 # Create your models here.
 class Adoptador(models.Model):
