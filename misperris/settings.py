@@ -38,8 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'perrisapp',
-    'accounts',
-    'datetimepicker',
+    'accounts',    
 ]
 
 MIDDLEWARE = [
